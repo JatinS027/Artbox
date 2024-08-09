@@ -1,0 +1,28 @@
+Artbox - App for Tattoo Artists and Collectors
+Overview
+Artbox is a user-friendly application designed specifically for tattoo artists and collectors. The app aims to combine elegance and functionality, drawing inspiration from the simplicity of Apple's designs. Our goal is to create a seamless user experience with a clean, intuitive interface that makes navigation effortless.
+
+Features
+1. Design Philosophy
+Clean and Smart Interface: Artbox will feature a sleek design inspired by Apple’s minimalistic approach. The app will be easy to use, with an emphasis on aesthetics and functionality.
+Inspiration from Devinci: The design of Artbox should reflect the principles seen in Devinci, ensuring a high standard of user-friendly experience.
+
+2. AI-Powered Art Generator
+Precise Art Generation: The AI function of Artbox will generate tattoo designs that accurately reflect the user's input. For example, if a user types "palm tree with a sunset behind it," the result should precisely match this description, avoiding any unrelated elements.
+
+3. Viewing Tattoo Designs
+Camera Integration: Users can upload a photo from their camera roll to preview how a tattoo design will look on their skin. This functionality is similar to what Instagram and Snapchat offer.
+Blank Body Canvas: Artbox will also provide the option to view the tattoo design on a blank body canvas. Users can select different body parts (e.g., arm, leg, back, chest) and body types (e.g., male or female) to visualize the tattoo in various positions.
+
+4. Membership Levels
+Artbox will offer three different membership plans to cater to different user needs:
+
+Basic: $9.99/month
+Limited AI-generated images
+Minimal storage
+Premium: $39.99/month
+Increased number of AI-generated images
+Adequate storage
+Pro: $69.99/month
+Maximum AI-generated images
+Ample storage
